@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://source.unsplash.com/1600x900/?nature,water)
+}
+.nav-bio ul {
+    list-style: none;
+}
+.nav-bio ul li {
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+.main-bio {
+    padding-top: 15px;
+    width: 100%;
+    height: 200px;
+    padding: 30px;
+}
+.bio-info h1 {
+    text-align: center;
+    font-family: cursive;
+}
+.bio-info p {
+    font-size: 25px;
+    font-family: 'Galada', cursive;
+}
+.bio-info {
+    width: 80%;
+    height: 100%;
+    float: left;
+    padding-right: 15px;
+}
